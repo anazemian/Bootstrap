@@ -1,0 +1,122 @@
+body {
+background-color: rgb(129, 155, 184);
+font-family: monospace;
+}
+
+h3 {
+  font-size: 14pt;
+}
+
+h2 {
+  font-size: 20pt;
+  display: inline;
+  color:white;
+  text-shadow: 1px 1px 2px black, 0 0 10px black, 0 0 5px black;
+}
+
+p {
+  font-size: 10pt;
+  color:white;
+  text-shadow: 1px 1px 2px black, 0 0 10px black, 0 0 5px black;
+}
+
+.pull-right {
+  margin-bottom: 10px;
+}
+
+.col-sm-8 {
+  min-height: 300px;
+  border: 2px solid rgb(129, 155, 184);
+  background-color: rgb(54, 120, 181);
+}
+
+#ruby {
+  background-image: url(http://www.balajiandamy.com/images/logos/ruby.dark.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#python {
+  background-image: url(https://ee5817f8e2e9a2e34042-3365e7f0719651e5b8d0979bce83c558.ssl.cf5.rackcdn.com/python.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#java {
+  background-image: url(http://whiteprompt.com/wp-content/uploads/2015/09/logo-immutable.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#cplusplus {
+  background-image: url(https://www.textmagic.com/wp-content/themes/textmagic-genesis/images/api/prog-lang-logos/cpp.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+#html {
+  background-image: url(http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2011/02/HTML5_Badge_256_thumb.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#bootstrap {
+  background-image: url(http://dhrmgddn.com/wp-content/uploads/2015/01/bootstrap.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#angular {
+  background-image: url(https://lh6.googleusercontent.com/-TlY7amsfzPs/T9ZgLXXK1cI/AAAAAAABK-c/Ki-inmeYNKk/w800-h800/AngularJS-Shield-large.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#django {
+  background-image: url(http://www.unixstickers.com/image/cache/data/stickers/django/django-neg.sh-600x600.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#sql {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/640px-MySQL.svg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#jquery {
+  background-image: url(http://vignette3.wikia.nocookie.net/howtoprogram/images/9/93/JQuery.png/revision/latest?cb=20130423012006);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.col-sm-4 {
+  min-height: 300px;
+  border: 2px solid rgb(129, 155, 184);
+  background-color: rgb(54, 120, 181);
+
+}
+
+.col-sm-6 {
+  min-height: 300px;
+  border: 2px solid rgb(129, 155, 184);
+  background-color: rgb(54, 120, 181);
+}
+
+
+.btn {
+  position:absolute;
+  bottom:0;
+  right:0;
+  margin-right: 10px;
+  background-color: rgb(7, 37, 69);
+}
+
+footer {
+  text-align: center;
+}
